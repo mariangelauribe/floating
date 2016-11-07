@@ -1,0 +1,17 @@
+.azul, .amarillo, .rojo {
+ 	width: 25%;
+ 	height: 100px ;
+ }
+ .azul{
+ 	background-color: blue;
+ }
+ .amarillo{
+ 	background-color: yellow;
+ }
+ .rojo{
+ 	background-color: red;
+ }
+ .blanco{
+ 	border-style: solid;
+ 	border-width: 1px;
+ } 
